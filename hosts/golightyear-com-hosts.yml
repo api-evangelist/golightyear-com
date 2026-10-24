@@ -1,0 +1,75 @@
+generated: '2026-10-24'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 5
+  own: 2
+  other_domain: 3
+  platform: 0
+  roles:
+  - api
+  - identity
+  - status
+  - website
+hosts:
+- host: api.golightyear.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: golightyear.com
+  role: api
+  relation: own
+- host: api.lightyear.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: lightyear.com
+  role: api
+  relation: other-domain
+- host: golightyear.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Website
+  serves:
+  - cdn
+  vendor: cloudfront
+  registrable_domain: golightyear.com
+  role: website
+  relation: own
+- host: lightyear.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - TermsOfService
+  - Support
+  - PrivacyPolicy
+  - Pricing
+  - Login
+  - Blog
+  serves:
+  - docs
+  registrable_domain: lightyear.com
+  role: identity
+  relation: other-domain
+- host: status.lightyear.com
+  found_by:
+  - pointer
+  types:
+  - StatusPage
+  serves: []
+  registrable_domain: lightyear.com
+  role: status
+  relation: other-domain

@@ -1,0 +1,84 @@
+# Lightyear
+
+> Investing with an edge. Lightyear is a simple and approachable way to invest in stocks and ETFs without unnecessary barriers and fees.
+
+Most pages are also available as Markdown by appending `.md` to the URL, e.g. https://lightyear.com/en-eu/about.md. The sitemap linked below indexes the crawlable URLs, including instrument and article pages.
+
+## When to use Lightyear
+
+- [Stocks](https://lightyear.com/en-eu/stocks): Product page for stock investing.
+- [Funds](https://lightyear.com/en-eu/funds): Product page for ETFs, money market funds and ETCs.
+- [Bonds](https://lightyear.com/en/bonds/explore): Searchable list of the bonds available on Lightyear.
+- [Crypto](https://lightyear.com/en-eu/crypto): Product page for crypto investing.
+- [Vaults](https://lightyear.com/en-eu/vaults): Product page for savings vaults and multi-currency accounts.
+- [Pricing](https://lightyear.com/en-eu/pricing): Fees, rates and plans for accounts and trading.
+- [Help centre](https://lightyear.com/en-eu/help): Support articles about accounts, funding, trading and fees.
+- [Blog](https://lightyear.com/en-eu/blog): Articles on investing, markets and product updates.
+- [Sitemap](https://lightyear.com/sitemap.xml): Index of the locale sitemaps listing page, instrument and article URLs.
+
+## Resources
+
+- [Tools](https://lightyear.com/en-eu/tools): Resources for every kind of investor.
+- [Transfer portfolio](https://lightyear.com/en-eu/transfer-portfolio-to-lightyear): Time to use a broker built for the 21st century. We accept transfers of whole shares and the transfer must be at least $1000 worth of shares.
+
+## Legal
+
+- [Important Information](https://lightyear.com/en-eu/important-information): This page gives you an overview of what information you should be aware of before using our services, and information around core features, risks and documentation.
+- [Terms of Service](https://lightyear.com/en-eu/terms)
+- [Risk Disclosure, Target Market Matrix](https://lightyear.com/en-eu/risk-disclosures)
+- [Best Execution](https://lightyear.com/en-eu/best-execution): This policy sets out Lightyear’s approach to Order handling and best execution of Orders in accordance with our regulatory obligations.
+- [Privacy policy](https://lightyear.com/en-eu/privacy)
+- [Cookie policy](https://lightyear.com/en-eu/cookie-policy): We use technologies that allow us to access and store information or use resources on your device as they interact with this Website. For simplicity, all such technologies are defined as "Cookies" within this document.
+- [Accessibility Statement](https://lightyear.com/en-eu/accessibility-statement): We want everyone to be able to use Lightyear, including people with disabilities. So we work to meet the European Accessibility Act (Directive (EU) 2019/882), local laws, and accessibility standards. These rules help make sure people with many different abilities can use digital financial services.
+- [Disclosures](https://lightyear.com/en-eu/disclosures)
+
+## Work with us
+
+- [Affiliates](https://lightyear.com/en-eu/affiliates): Lightyear offers over 6000 stocks, ETFs, and MMFs. Join our affiliate program to get advertising materials and a great commission model.
+
+## Pages
+
+- [Key Information Documents](https://lightyear.com/en-eu/kids): Key Information Documents
+- [Affiliate Terms](https://lightyear.com/en-eu/affiliate-terms): This page contains Affiliate Terms of Lightyear Europe AS.
+- [Savings Interest Calculator](https://lightyear.com/en-eu/tools/savings-interest-calculator): If you’re saving or investing for the future, our compound interest calculator can help you to visualise your financial goals - and plan ways to get there faster.
+- [FIRE Calculator: How to retire early](https://lightyear.com/en-eu/tools/fire-retirement-calculator): FIRE stands for Financial Independence Retire Early. Our calculator will help you find an investment strategy that could help you join this rapidly growing movement.
+- [Compare Interest Rates | Compound Interest Calculator](https://lightyear.com/en-eu/tools/rate-comparison-calculator): Compare two interest rates and explore returns over various time horizons. Our calculator also visualises the impact of different compounding periods and annual fees.
+- [Identity Confirmed](https://lightyear.com/en-eu/verification-confirmed)
+- [Gift Voucher Scheme](https://lightyear.com/en-eu/giftvoucher)
+- [Transfer Wise stock | Invest with Lightyear](https://lightyear.com/en-eu/transfer-wise): A new home for your Wise stock! Say goodbye to your old-school broker and transfer your Wise shares to Lightyear in just a few clicks.
+- [About Lightyear](https://lightyear.com/en-eu/about): We started Lightyear to build the investment platform that everyone in Europe deserves. With a slick experience and fair fees, we’re making investing lightyears better.
+- [Lightyear AI](https://lightyear.com/en-eu/lightyear-ai): AI-powered market insights. We're building intelligent tools to help you invest smarter.
+- [TBSZ Savings Calculator](https://lightyear.com/en-eu/tools/tbsz-calculator): Forecast how much money you could save by opening up a long term investment account (TBSZ), and taking your investment income tax to 0% after five years.
+- [Conflicts of Interest Policy](https://lightyear.com/en-eu/conflicts-policy): In order for the Firm to be as transparent as possible with our customers, we are setting out our Conflicts of Interest Policy.
+- [execution-venues-and-brokers](https://lightyear.com/en-eu/execution-venues-and-brokers)
+- [Complaints Policy](https://lightyear.com/en-eu/complaints-policy): Providing a high standard of customer service is a priority to the Firm. The Firm welcomes all feedback on its services at all times. If you have become dissatisfied with the services of the Firm please allow the Firm a chance to remedy this.
+- [Terms of Service (Business)](https://lightyear.com/en-eu/terms-business)
+- [Savings ](https://lightyear.com/en-eu/vaults/jpm): Make your money work even harder for you with Lightyear Savings. Managed by J.P. Morgan Asset management, with low fees and instant withdrawals.
+- [Money market funds](https://lightyear.com/en-eu/money-market-funds/jpm): Make your money work even harder for you, in today’s high interest rate environment. Managed by J.P. Morgan Asset management, with low fees and instant withdrawals.
+- [Money Market Funds (GBP)](https://lightyear.com/en-eu/money-market-funds/gbp): Make your money work even harder for you, in today’s high interest rate environment. Managed by BlackRock, multi-currency, and instant withdrawals.
+- [Money Market Funds (USD)](https://lightyear.com/en-eu/money-market-funds/usd): Make your money work even harder for you, in today’s high interest rate environment. Managed by BlackRock, multi-currency, and instant withdrawals.
+- [Savings Vaults (Dollars)](https://lightyear.com/en-eu/vaults/usd): Lightyear Savings follow the Federal Reserve interest rate and offer easy access withdrawals. Your money is held by Blackrock, the world’s largest asset manager.
+- [Savings Vaults (Pounds)](https://lightyear.com/en-eu/vaults/gbp): Lightyear Savings follow the Bank of England interest rate and offer easy access withdrawals. Your money is held by Blackrock, the world’s largest asset manager.
+- [Business reward promotion](https://lightyear.com/en-eu/reward-business): Invest and earn interest on your business cash today. Use the code to claim between €30 and €300 in a fractional share, MMF, or ETF of choice. Capital at risk. T&Cs apply. Only invest excess capital.
+- [Lightyear Signup Promotion Terms](https://lightyear.com/en-eu/signup-promotion-terms)
+- [Reward promotion](https://lightyear.com/en-eu/reward): Start building your portfolio today and use the code to get between 10€ and 100€ in a fractional share. Capital at risk. T&Cs apply.
+- [Inflation Calculator for Investments & Savings](https://lightyear.com/en-eu/tools/inflation-calculator-investments-savings): Use this tool to forecast how much your investments could be worth in the future, based on the growth rate and inflation rate you expect.
+- [Ready-Made Plans: get started with investing, without the hassle](https://lightyear.com/en-eu/ready-made-plans): Choose a ready-made Plan built around funds by BlackRock & Vanguard, matched to your risk level. Auto-invest and let your portfolio run itself.
+- [Put your company cash to work | Earn 2.46% APY with Money Market Funds](https://lightyear.com/en-eu/money-market-funds): Earn 2.46% APY with BlackRock Money Market Funds. Multi-currency, instant withdrawals, no lock-in.
+- [Business Investment Account | Extend your company cash: invest & earn interest | Lightyear](https://lightyear.com/en-eu/business): Put business cash to work with 6000 stocks & ETFs. Easy-access 2.46% APY with Money Market Funds.
+- [Lightyear Refer a Friend Terms](https://lightyear.com/en-eu/referral-scheme-terms)
+- [Plans | Auto-invest in stocks and funds](https://lightyear.com/en-eu/plans): Invest with a Plan. 6000 stocks & funds, automated investing and AI-powered insights.
+- [Free TBSZ for global investing](https://lightyear.com/en-eu/tbsz): Free TBSZ: no opening, holding & withdrawal fees. 6000 stocks & funds. TBSZ rules apply. Other fees may apply
+
+## Blog
+
+- [Autumn product update: the Q3 features you might have missed](https://lightyear.com/en-eu/blog/autumn-product-update): The Q3 features you might have missed
+- [Lists are here: your watchlist just got a lot more organised](https://lightyear.com/en-eu/blog/introducing-lists): Since our early days, your Watchlist has been the one place to track everything you're interested in. But there was some feedback: you told us that one place can easily get crammed and that you want more ways to organise a Watchlist across instruments, sectors and strategies. Today, that’s launching.
+- [Diversification 101: don't put all your eggs in one basket](https://lightyear.com/en-eu/blog/diversification-strategies): Diversification won't guarantee a profit or remove risk, but it's the simplest, most reliable habit for smoothing out returns as a new investor.
+- [Summer product update: the Q2 features you might have missed](https://lightyear.com/en-eu/blog/summer-product-update): The Q2 features you might have missed
+- [High interest, easy access: Savings is now live in more of Europe](https://lightyear.com/en-eu/blog/savings-live-in-more-countries): For a long time, earning a decent return on your cash meant giving something up. Lock it away and get a better rate, or keep it accessible in your bank account and earn next to nothing. That trade-off has been the default for most people across Europe. Lightyear Savings was built to change that. It's now available in Croatia, Cyprus, Greece, Ireland, Portugal, Slovakia and Slovenia, powered by J.P. Morgan Asset Management.
+- [Improvements to how we show PnL](https://lightyear.com/en-eu/blog/improvements-to-pnl): PnL (Profit and Loss) tells you how much your investments have gained or lost. Take what your portfolio is worth today, subtract the total cash you've put in, minus anything you've taken out, and what's left is your profit or loss.
+- [Introducing crypto on Lightyear](https://lightyear.com/en-eu/blog/crypto-on-lightyear): Crypto investing is now live on Lightyear. 12 top-traded coins including Bitcoin, Ethereum and Solana, with 24/7 trading and AI market intelligence, seamlessly within your existing portfolio of stocks and funds.
+- [Introducing, Ready-made Plans](https://lightyear.com/en-eu/blog/ready-made-plans): Ready-made Plans offer three risk-based Plans, each around funds managed by experts from BlackRock and Vanguard.
+- [Spring product update: hidden gems from Q1](https://lightyear.com/en-eu/blog/spring-product-update): At Lightyear, alongside the bigger launches, there's a quieter layer of work constantly happening. That's our team always looking to make your investing experience even more delightful. Below are the product updates from Q1 that you might’ve missed.
+- [Closing out Lightyear’s 2025](https://lightyear.com/en-eu/blog/closing-out-lightyears-2025): To close out a big 2025, here’s a look back on how Lightyear’s investors across Europe invested their money, what impacted their behaviour on the markets, and how we moved closer to our mission of creating successful investors.

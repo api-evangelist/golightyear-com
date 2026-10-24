@@ -1,0 +1,22 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/golightyear-com/integrations
+- https://zapier.com/apps/golightyear/integrations
+- https://zapier.com/apps/lightyear/integrations
+- https://n8n.io/integrations/golightyear-com/
+- https://n8n.io/integrations/golightyear/
+- https://composio.dev/toolkits/golightyear-com
+- https://monid.ai/tools/golightyear-com
+checked:
+- https://composio.dev/toolkits/golightyear-com
+- https://monid.ai/tools/golightyear-com
+- https://n8n.io/integrations/golightyear-com/
+- https://n8n.io/integrations/golightyear/
+- https://zapier.com/apps/golightyear-com/integrations
+- https://zapier.com/apps/golightyear/integrations
+- https://zapier.com/apps/lightyear/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

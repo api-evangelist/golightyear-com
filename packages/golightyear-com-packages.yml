@@ -1,0 +1,33 @@
+generated: '2026-10-24'
+method: none
+source: https://registry.npmjs.org/-/v1/search?text=lightyear
+packages: []
+rejected:
+- name: lightyear
+  registry: npm
+  reason: 'official: false as written'
+- name: '@runlightyear/cli'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@runlightyear/slack'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@runlightyear/github'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@lightyeardeployer/lightyear'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@testdeployer/lightyeardemo'
+  registry: npm
+  reason: 'official: false as written'
+- name: react-lightyear
+  registry: npm
+  reason: 'official: false as written'
+- name: '@runlightyear/lightyear'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: fuzz-lightyear
+  registry: npm
+  reason: 'official: false as written'
+note: 'no first-party package: every candidate a model listed was unowned (harvest-packages.py --audit)'
